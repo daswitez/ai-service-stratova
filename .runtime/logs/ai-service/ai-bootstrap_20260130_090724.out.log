@@ -1,0 +1,44 @@
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] AI Service                                                         [pom]
+[INFO] AI Domain                                                          [jar]
+[INFO] AI Application                                                     [jar]
+[INFO] AI Infrastructure                                                  [jar]
+[INFO] AI API                                                             [jar]
+[INFO] AI Bootstrap                                                       [jar]
+[INFO] 
+[INFO] ----------------------< com.solveria:ai-service >-----------------------
+[INFO] Building AI Service 1.0.0-SNAPSHOT                                 [1/6]
+[INFO]   from pom.xml
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] 
+[INFO] >>> spring-boot:3.5.9:run (default-cli) > test-compile @ ai-service >>>
+[INFO] 
+[INFO] <<< spring-boot:3.5.9:run (default-cli) < test-compile @ ai-service <<<
+[INFO] 
+[INFO] 
+[INFO] --- spring-boot:3.5.9:run (default-cli) @ ai-service ---
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary for AI Service 1.0.0-SNAPSHOT:
+[INFO] 
+[INFO] AI Service ......................................... FAILURE [  0.446 s]
+[INFO] AI Domain .......................................... SKIPPED
+[INFO] AI Application ..................................... SKIPPED
+[INFO] AI Infrastructure .................................. SKIPPED
+[INFO] AI API ............................................. SKIPPED
+[INFO] AI Bootstrap ....................................... SKIPPED
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.354 s
+[INFO] Finished at: 2026-01-30T09:07:43-04:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.springframework.boot:spring-boot-maven-plugin:3.5.9:run (default-cli) on project ai-service: Unable to find a suitable main class, please add a 'mainClass' property -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
