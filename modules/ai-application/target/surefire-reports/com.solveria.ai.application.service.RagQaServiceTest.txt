@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.solveria.ai.application.service.RagQaServiceTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.153 s -- in com.solveria.ai.application.service.RagQaServiceTest

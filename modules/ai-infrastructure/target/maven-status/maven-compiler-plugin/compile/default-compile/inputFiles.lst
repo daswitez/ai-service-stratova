@@ -1,8 +1,8 @@
-C:\ProyectoAI\ai-service\modules\ai-infrastructure\src\main\java\com\solveria\ai\infrastructure\cache\redis\RedisCacheAdapter.java
-C:\ProyectoAI\ai-service\modules\ai-infrastructure\src\main\java\com\solveria\ai\infrastructure\llm\springai\LlmPortFromChatAdapter.java
-C:\ProyectoAI\ai-service\modules\ai-infrastructure\src\main\java\com\solveria\ai\infrastructure\llm\springai\SpringAiLlmChatAdapter.java
-C:\ProyectoAI\ai-service\modules\ai-infrastructure\src\main\java\com\solveria\ai\infrastructure\llm\stub\DevLlmChatPortStub.java
-C:\ProyectoAI\ai-service\modules\ai-infrastructure\src\main\java\com\solveria\ai\infrastructure\llm\stub\StubLlmChatAdapter.java
-C:\ProyectoAI\ai-service\modules\ai-infrastructure\src\main\java\com\solveria\ai\infrastructure\vector\mongodb_atlas\MongoAtlasVectorStoreAdapter.java
-C:\ProyectoAI\ai-service\modules\ai-infrastructure\src\main\java\com\solveria\ai\infrastructure\vector\pgvector\PgVectorStoreAdapter.java
-C:\ProyectoAI\ai-service\modules\ai-infrastructure\src\main\java\com\solveria\ai\infrastructure\vector\stub\StubVectorStoreAdapter.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-infrastructure/src/main/java/com/solveria/ai/infrastructure/cache/redis/RedisCacheAdapter.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-infrastructure/src/main/java/com/solveria/ai/infrastructure/llm/springai/LlmPortFromChatAdapter.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-infrastructure/src/main/java/com/solveria/ai/infrastructure/llm/springai/SpringAiLlmChatAdapter.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-infrastructure/src/main/java/com/solveria/ai/infrastructure/llm/stub/DevLlmChatPortStub.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-infrastructure/src/main/java/com/solveria/ai/infrastructure/llm/stub/StubLlmChatAdapter.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-infrastructure/src/main/java/com/solveria/ai/infrastructure/vector/mongodb_atlas/MongoAtlasVectorStoreAdapter.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-infrastructure/src/main/java/com/solveria/ai/infrastructure/vector/pgvector/PgVectorStoreAdapter.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-infrastructure/src/main/java/com/solveria/ai/infrastructure/vector/stub/StubVectorStoreAdapter.java

@@ -1,0 +1,10 @@
+jPpP7vEHUxGQiwTIy5InoQ/9vYW2ErJgpvMC9x1rdC8=
+src/main/java/com/solveria/ai/infrastructure/cache/redis/RedisCacheAdapter.java 2026-03-03T20:05:52.014725682Z
+src/main/java/com/solveria/ai/infrastructure/llm/springai/LlmPortFromChatAdapter.java 2026-03-03T20:05:51.985724927Z
+src/main/java/com/solveria/ai/infrastructure/llm/springai/SpringAiLlmChatAdapter.java 2026-03-03T20:05:51.944723857Z
+src/main/java/com/solveria/ai/infrastructure/llm/stub/DevLlmChatPortStub.java 2026-03-03T20:05:51.910722969Z
+src/main/java/com/solveria/ai/infrastructure/llm/stub/StubLlmChatAdapter.java 2026-03-03T20:05:51.886722343Z
+src/main/java/com/solveria/ai/infrastructure/vector/mongodb_atlas/MongoAtlasVectorStoreAdapter.java 2026-03-03T20:05:52.080487827Z
+src/main/java/com/solveria/ai/infrastructure/vector/pgvector/PgVectorStoreAdapter.java 2026-03-03T20:05:52.134728805Z
+src/main/java/com/solveria/ai/infrastructure/vector/stub/StubVectorStoreAdapter.java 2026-03-03T20:05:52.163729560Z
+src/test/java/com/solveria/ai/infrastructure/llm/springai/LlmPortFromChatAdapterTest.java 2026-03-03T20:05:52.193730340Z

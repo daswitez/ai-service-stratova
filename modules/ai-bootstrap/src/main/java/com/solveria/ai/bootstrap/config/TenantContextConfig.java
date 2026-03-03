@@ -1,16 +1,13 @@
 package com.solveria.ai.bootstrap.config;
 
 import com.solveria.ai.application.port.out.TenantContextPort;
+import java.util.List;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 
-import java.util.List;
-
-/**
- * Tenant context configuration. Dev: fixed 'dev-tenant'. Test: 'test-tenant'. Later: JWT-based.
- */
+/** Tenant context configuration. Dev: fixed 'dev-tenant'. Test: 'test-tenant'. Later: JWT-based. */
 @Configuration
 public class TenantContextConfig {
 
@@ -31,11 +28,19 @@ public class TenantContextConfig {
     private static TenantContextPort simple(String tenantId, String principal) {
         return new TenantContextPort() {
             @Override
-            public String currentTenantId() { return tenantId; }
+            public String currentTenantId() {
+                return tenantId;
+            }
+
             @Override
-            public String principal() { return principal; }
+            public String principal() {
+                return principal;
+            }
+
             @Override
-            public List<String> scopes() { return List.of(); }
+            public List<String> scopes() {
+                return List.of();
+            }
         };
     }
 }

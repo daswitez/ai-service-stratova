@@ -1,2 +1,2 @@
-com\solveria\ai\application\service\RagQaServiceTest.class
-com\solveria\ai\application\service\CompletePromptServiceTest.class
+com/solveria/ai/application/service/CompletePromptServiceTest.class
+com/solveria/ai/application/service/RagQaServiceTest.class

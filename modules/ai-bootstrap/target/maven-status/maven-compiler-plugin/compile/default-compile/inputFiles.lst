@@ -1,7 +1,8 @@
-C:\ProyectoAI\ai-service\modules\ai-bootstrap\src\main\java\com\solveria\ai\bootstrap\AiServiceApplication.java
-C:\ProyectoAI\ai-service\modules\ai-bootstrap\src\main\java\com\solveria\ai\bootstrap\config\AuditConfig.java
-C:\ProyectoAI\ai-service\modules\ai-bootstrap\src\main\java\com\solveria\ai\bootstrap\config\DevTestStubsConfig.java
-C:\ProyectoAI\ai-service\modules\ai-bootstrap\src\main\java\com\solveria\ai\bootstrap\config\DevWiringSanityConfig.java
-C:\ProyectoAI\ai-service\modules\ai-bootstrap\src\main\java\com\solveria\ai\bootstrap\config\SecurityConfig.java
-C:\ProyectoAI\ai-service\modules\ai-bootstrap\src\main\java\com\solveria\ai\bootstrap\config\TenantContextConfig.java
-C:\ProyectoAI\ai-service\modules\ai-bootstrap\src\main\java\com\solveria\ai\bootstrap\config\UseCaseConfig.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-bootstrap/src/main/java/com/solveria/ai/bootstrap/AiServiceApplication.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-bootstrap/src/main/java/com/solveria/ai/bootstrap/config/AuditConfig.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-bootstrap/src/main/java/com/solveria/ai/bootstrap/config/CorsConfig.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-bootstrap/src/main/java/com/solveria/ai/bootstrap/config/DevTestStubsConfig.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-bootstrap/src/main/java/com/solveria/ai/bootstrap/config/DevWiringSanityConfig.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-bootstrap/src/main/java/com/solveria/ai/bootstrap/config/SecurityConfig.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-bootstrap/src/main/java/com/solveria/ai/bootstrap/config/TenantContextConfig.java
+/home/daswit/Downloads/ProyectoAI/ai-service/modules/ai-bootstrap/src/main/java/com/solveria/ai/bootstrap/config/UseCaseConfig.java

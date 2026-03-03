@@ -1,2 +1,2 @@
-com\solveria\ai\api\controller\CompleteControllerTest.class
-com\solveria\ai\api\controller\RagQaControllerTest.class
+com/solveria/ai/api/controller/CompleteControllerTest.class
+com/solveria/ai/api/controller/RagQaControllerTest.class

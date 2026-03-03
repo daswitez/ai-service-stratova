@@ -1,8 +1,8 @@
-com\solveria\ai\infrastructure\vector\pgvector\PgVectorStoreAdapter.class
-com\solveria\ai\infrastructure\vector\mongodb_atlas\MongoAtlasVectorStoreAdapter.class
-com\solveria\ai\infrastructure\cache\redis\RedisCacheAdapter.class
-com\solveria\ai\infrastructure\vector\stub\StubVectorStoreAdapter.class
-com\solveria\ai\infrastructure\llm\springai\LlmPortFromChatAdapter.class
-com\solveria\ai\infrastructure\llm\springai\SpringAiLlmChatAdapter.class
-com\solveria\ai\infrastructure\llm\stub\DevLlmChatPortStub.class
-com\solveria\ai\infrastructure\llm\stub\StubLlmChatAdapter.class
+com/solveria/ai/infrastructure/vector/stub/StubVectorStoreAdapter.class
+com/solveria/ai/infrastructure/cache/redis/RedisCacheAdapter.class
+com/solveria/ai/infrastructure/llm/springai/LlmPortFromChatAdapter.class
+com/solveria/ai/infrastructure/llm/stub/StubLlmChatAdapter.class
+com/solveria/ai/infrastructure/llm/stub/DevLlmChatPortStub.class
+com/solveria/ai/infrastructure/llm/springai/SpringAiLlmChatAdapter.class
+com/solveria/ai/infrastructure/vector/pgvector/PgVectorStoreAdapter.class
+com/solveria/ai/infrastructure/vector/mongodb_atlas/MongoAtlasVectorStoreAdapter.class
